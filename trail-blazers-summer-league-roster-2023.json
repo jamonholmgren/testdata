@@ -1,0 +1,116 @@
+{
+  "players": [
+    {
+      "number": 41, 
+      "name": "Ibou Badji",
+      "position": "C",
+      "height": "7-1",
+      "weight": 240
+    },
+    {
+      "number": 21,
+      "name": "John Butler Jr.",
+      "position": "F",  
+      "height": "7-0",
+      "weight": 190
+    },
+    {
+      "number": 57,
+      "name": "Antoine Davis",
+      "position": "G",
+      "height": "6-1",
+      "weight": 165
+    },
+    {
+      "number": 54,
+      "name": "Michael Devoe",
+      "position": "G",
+      "height": "6-4",
+      "weight": 183
+    },
+    {
+      "number": 0,
+      "name": "Scoot Henderson",
+      "position": "G",
+      "height": "6-2",
+      "weight": 196
+    },
+    {
+      "number": 6,
+      "name": "Keon Johnson",
+      "position": "G",
+      "height": "6-3",
+      "weight": 185
+    },
+    {
+      "number": 76,
+      "name": "Christ Koumadje",
+      "position": "C",
+      "height": "7-4",
+      "weight": 269
+    },
+    {
+      "number": 53,
+      "name": "Jaizec Lottie",
+      "position": "G",
+      "height": "6-2",
+      "weight": 190
+    },
+    {
+      "number": 60,
+      "name": "Justin Minaya",
+      "position": "F",
+      "height": "6-7",
+      "weight": 210
+    },
+    {
+      "number": 8,
+      "name": "Kris Murray",
+      "position": "F",
+      "height": "6-8",
+      "weight": 215
+    },
+    {
+      "number": 68,
+      "name": "Duop Reath",
+      "position": "C",
+      "height": "6-11",
+      "weight": 245
+    },
+    {
+      "number": 72,
+      "name": "Rayan Rupert",
+      "position": "G/F",
+      "height": "6-7",
+      "weight": 195
+    },
+    {
+      "number": 17,
+      "name": "Shaedon Sharpe",
+      "position": "G",
+      "height": "6-5",
+      "weight": 200
+    },
+    {
+      "number": 63,
+      "name": "Malachi Smith",
+      "position": "G",
+      "height": "6-4",
+      "weight": 210
+    },
+    {
+      "number": 34,
+      "name": "Jabari Walker",
+      "position": "F",
+      "height": "6-7",
+      "weight": 200
+    },
+    {
+      "number": 23,
+      "name": "Nate Williams",
+      "position": "G/F",
+      "height": "6-5", 
+      "weight": 206
+    }
+  ]
+}
